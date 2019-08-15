@@ -1,0 +1,41 @@
+Hello,
+My name is NIKHIL AGARWAL 
+.......
+AND I DON"T HAVE A GEDIT EDITOR , THEREFORE I AM USING VIM EDITOR.
+I HAVE EXPERIENCE IN PROGRAMMING USING NETBEANS(IDE).
+I FEEL IDE's ARE MORE USEFUL , BUT I DON'T HAVE ANY PROBLEM TO CODE USING TERMINAL.
+
+THAT's IT FOR TODAY, 
+DFTBA!
+
+TIP : TO SEE THE TEXT IN TERMINAL USE CAT !
+
+Q1) DONE THE STEPS.
+Q2) a) Interpretation vs Compilation 
+Interpreter reads a source file line by line using a program without saving a file ....
+by reading i mean it convert the code into machine code ( 0s and 1s )
+
+compiler reads the code and make it into a executable file which is the machine code.
+
+b) Python is a HLL , it have a simpler syntax and uses interpretation technique. it's currently used in 
+data science a lot.
+
+C on other hand is between HLL and LLL , syntax are little complex /// it uses complier technique.
+
+Q3) 
+1. a = 10 ( integer )
+2. b = 4 (integer )
+3. c = 3. 4 (float)
+4. d=a/10 (float )
+5. e = b ∗ c (int , float)
+6. a = a ∗ e (int , float)
+7. s = "IIITB" (string)
+8. t =a+s (error as a and s are different data type )
+
+// tying rule is ,the thing (number or string ) that has to be assign has to be on right of '=' and
+variable should be on the left of '=' . //
+
+
+
+
+
