@@ -5,22 +5,22 @@ a = int(n/200)
 b = n%200
 if(b>=50):
             a = a + int(b/50)
-            b = b % 5 
+            b = b % 5  #it takes the reminder after divinding by 5
 
 if(b<50 and b>=10):
             a = a + int(b/10)
-            b = b % 10
+            b = b % 10 #it takes the reminder after divinding by 10
 
 if(b<10 and b>=5):
             a = a + int(b/5)
-            b = b % 5
+            b = b % 5 #it takes the reminder after divinding by 5
 
 if(b<5 and b>=2):
             a = a + int(b/2)
-            b = b % 2
+            b = b % 2  #it takes the reminder after divinding by 2
 
 if(b<2 and b>=1):
-            a = a + int(b/1)
+            a = a + int(b/1)  #it increases the count by b/1
 
 print(a)
 
