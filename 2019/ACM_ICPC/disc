@@ -1,30 +1,23 @@
 
-
-def disc(n):
-	l1 = [d for d in str(n)]
-	l2 = [d for d in str(n)]
-	#print(l1)
-	l3 = []
-
-	#print(len(l1))
-	for i in range(len(l1)):
-		num_s = ""
-		l1.pop(i)
-		#print(l1)
-		num_s= num_s.join(l1)
-		num = int(num_s)
-		l3.append(num)
-		l1 = [d for d in str(n)]
-
-	print(min(l3))	
-
-
-l_in = []
-nt = input()
-for j in range(int(nt)) :
-	a = input()
-	l_in.append(a)
-
-
-for k in l_in:
-	disc(k)
+T = raw_input()
+T = int(T)
+numbers = []
+for i in range(T):
+	N = input()
+	numbers.append(N)
+for i in numbers:
+	a = []
+	while (i!=0):
+		a.append(i%10)
+		i/=10
+	a.reverse()
+	comp = []
+	for j in range (len(a)):
+		l1 = a[:]
+		l1.pop(j)
+		string = ''
+		for k in l1:
+			string = string + str(k)
+		num = int(string)
+		comp.append(num)
+	print min(comp)
