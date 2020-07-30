@@ -1,4 +1,4 @@
-#Pytesseract
+# Pytesseract
 
 A API for Tesseract project ( Optical Character Reader ) 
 
