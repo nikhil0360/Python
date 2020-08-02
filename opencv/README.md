@@ -22,7 +22,8 @@ here are some recent interesting project links
 Here are my project links :  
 all the projects are small and fun
 
-* [Face Detection using Haar-Cascade]("https://github.com/nikhil0360/Python/blob/master/opencv/face_detection.png")
-* [Guesture Gaming]() 
-* [Find the difference]()
+* [Face Detection using Haar-Cascade](face-detection.md)
+* [Guesture Gaming](guesture-gaming.md) 
+* [Find the difference](image-diff.md)
 
+<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="150" height="150" />
