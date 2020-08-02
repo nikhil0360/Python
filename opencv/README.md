@@ -16,7 +16,7 @@ It has library for C, C++, Java, Python.
 
 We can combine it with other modules to get the desire output,  
 here are some recent interesting project links
-* [Face Mask Detector](https://pythonprogramming.net/loading-images-python-opencv-tutorial/). 
+* [Face Mask Detector](https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/). 
 * [Covid-19 X-ray detector](https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/)
 
 Here are my project links :  
