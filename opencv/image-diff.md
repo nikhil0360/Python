@@ -11,4 +11,11 @@ or anything moving from a stationary background
 
 here are few examples, and it is pretty fun :
 
-<div align="center"><img src='opencv/diff1.png' height='400'><img src='opencv/diff2.png' height='400'></div>
+<div align="center"> <img src='diff1.png' height='400'> <img src='diff2.png' height='400'> </div>
+
+after you run the program, on these images we get a mask layer, which show all the differences 
+and a image which combines both the images where the difference is found.
+
+<div align="center"> <img src='diff_mask.png' height='400'> <img src='add_diff.png' height='400'> </div>
+
+and this method is fun and really fast, and we can use this method on videos too.
