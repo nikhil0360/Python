@@ -19,7 +19,7 @@ Automate instagram login process, such that clicking a file would open his accou
 * You also need to downlaod webdriver for your browser, I have used chrome and you can get it from here : [chromedriver](https://chromedriver.chromium.org/downloads)
 * you need to move the chromedriver to your ```/usr/local/bin```
 
-### here is the [SOURCE]("instagram_automation.py") CODE
+### here is the [SOURCE](instagram_automation.py) CODE
 All you need to do is change the user name and password in the script.
 
 Now to make the file a clickable you need to do the following.
